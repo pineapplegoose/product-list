@@ -32,7 +32,7 @@ function App() {
         <div className=" fixed inset-0 bg-black bg-opacity-50">
 
         </div>
-        <div className=" bg-white rounded-lg p-6 absolute bottom-0 left-0 right-0 sm:relative z-10 m-0 lg:max-w-md lg:mx-auto">
+        <div className=" bg-white rounded-lg p-6 sm:absolute bottom-0 left-0 right-0 md:relative z-10 m-0 lg:max-w-md lg:mx-auto">
           <img src={checkIcon} alt="" className=" mb-8" />
           <h2 className=" text-[40px] font-bold">Order Confirmed</h2>
           <p className=" text-[#87635a] mb-[30px]">
